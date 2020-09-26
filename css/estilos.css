@@ -11,4 +11,8 @@ header{
 header nav{
     display: flex;
     justify-content: flex-end;
+    padding: 7px;
+}
+header li{
+    display:inline-block
 }
